@@ -1,5 +1,5 @@
 # 프로그래머스 유형별 문제 풀이
-https://programmers.co.kr
+[Link to Programmers](https://programmers.co.kr{:target="_blank"})
 
 ## 문제 유형
 1. 해시
