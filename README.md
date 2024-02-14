@@ -3,7 +3,7 @@ https://programmers.co.kr
 
 ## 문제 유형
 1. 해시
-* [포켓몬 - Level1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) 
+* [폰켓몬 - Level1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) 
 2. 스택/큐
 3. 힙(Heap)
 4. 정렬
