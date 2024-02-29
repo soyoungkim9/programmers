@@ -7,6 +7,7 @@ https://programmers.co.kr
 2. 스택/큐
 * [같은 숫자는 싫어 - Level1](https://school.programmers.co.kr/learn/courses/30/lessons/12906) / [문제 풀이](https://github.com/soyoungkim9/programmers/blob/main/Stack/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
 3. 힙(Heap)
+* [더 맵게 - Level2](https://school.programmers.co.kr/learn/courses/30/lessons/42626) / [문제풀이](https://github.com/soyoungkim9/programmers/blob/main/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md)
 4. 정렬
 * [가장 큰 수 - Level2](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [문제 풀이](https://github.com/soyoungkim9/programmers/blob/main/Sort/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.md)
 5. 구현
