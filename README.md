@@ -1,7 +1,7 @@
 # 프로그래머스 유형별 문제 풀이
 https://programmers.co.kr
 
-## 문제 유형
+## 알고리즘
 1. 해시
 * [폰켓몬 - Level1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) / [문제 풀이](https://github.com/soyoungkim9/programmers/blob/main/Hash/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)
 2. 스택/큐
@@ -17,6 +17,12 @@ https://programmers.co.kr
 9. 깊이/너비 우선 탐색(DFS/BFS)
 10. 이분탐색
 11. 그래프
+
+
+## 과제
+1. API
+* [[실무 역량 과제] API 서버 개발](https://school.programmers.co.kr/skill_check_assignments/430) / [문제풀이](https://github.com/soyoungkim9/programmers/blob/main/API/src/main/java/project/App.java)
+
 
 ## 다짐 👊
 문제은행식이 아닌 하나를 풀어도 제대로 풀자<br>
